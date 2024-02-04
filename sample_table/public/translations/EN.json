@@ -1,0 +1,31 @@
+{
+  "meta": {
+      "summary": "App Plugin Language Strings - EN"
+  },
+  "strings": {
+      "name": {
+          "text": "Sample Table",
+          "context": "Plugin name"
+      },
+      "description": {
+          "text": "Sample Table Description",
+          "context": "Displayed when listing plugin"
+      },
+      "longDescription": {
+          "text": "$name% Long Description",
+          "context": "A simple table widget example which demonstrates how to use pagination and infinite scroll features"
+      },
+      "configurationPanel.column": {
+        "text": "Column",
+        "context": "Column selection dropdown label"
+      },
+      "configurationPanel.tableType": {
+        "text": "Table Type",
+        "context": "Table type selection dropdown label"
+      },
+      "configurationPanel.selectAField": {
+        "text": "Select a field",
+        "context": "Default dropdown label"
+      }
+  }
+}
